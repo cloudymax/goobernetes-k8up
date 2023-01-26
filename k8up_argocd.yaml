@@ -36,7 +36,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 
+    repoURL: https://github.com/cloudymax/goobernetes-k8up.git
     path: crd/
   destination:
     server: "https://kubernetes.default.svc"
